@@ -17,9 +17,12 @@ body
 	display: inline-block;
 	margin-left: 20px;
 }
-#word
+#num1, #num2
 {
 	width: 60%;
+	background-image: url(desktop-purple-wallpaper-whatspaper.jpg);
+	color: white;
+	font-weight: bold;
 }
 #wordDisplay
 {
